@@ -102,8 +102,7 @@ int mainC(int n, int num_pc)
     fim_tempo = omp_get_wtime();
 
     // print resultados
-    printf("The execution time is %g sec\n", fim_tempo - inicio_tempo);
-    printf("Number of found solutions is %d\n", number_solutions);
-
+    //printf("The execution time is %g sec\n", fim_tempo - inicio_tempo);
+    //printf("Number of found solutions is %d\n", number_solutions);
 	return number_solutions;
 }

@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/heliks/Área de Trabalho/7 semestre/redes/Trabalho-1/N-Queens-problem-in-multicomputers",
+      "environment": [],
+      "program": "/home/heliks/Área de Trabalho/7 semestre/redes/Trabalho-1/N-Queens-problem-in-multicomputers/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "externalConsole": false
+    }
+  ]
+}
