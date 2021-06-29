@@ -10,4 +10,4 @@ python ServidorTCP.py
 python ClientTCP.py
 
 
-O primeiro cliente executado é o mestre, insira nele um valor entre 0 e 9
+O primeiro cliente executado é o mestre, insira nele um valor para N

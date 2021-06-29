@@ -34,12 +34,12 @@ int verifica(int linha_rainha[MAX_N], int n)
 
 int mainC(int n, int num_pc)
 {	
-    long num_iteracao = 1,iter;
+    long num_iteracao = 1,iter,ini_iteracao, fim_iteracao;
 
     double inicio_tempo, fim_tempo;
     int number_solutions = 0;
 	int num_threads;
-    int i, ini_iteracao, fim_iteracao;
+    int i;
 
     num_threads = 8; 
 
